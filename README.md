@@ -42,7 +42,7 @@ A collection of some useful Quantum Computing, Cryptography and Post-Quantum-Cry
 - (Beginner, Non-technical) [The Code Book | Simon Singh](https://simonsingh.net/books/the-code-book/)
 	- Very entertaining and book on the history of Cryptography, with a lot of interesting examples throughout history that requires no technical knowledge and will teach you a good understanding of cryptography
 
-#### Post-Quantum Cryptography
+### Post-Quantum Cryptography
 ##### Youtube
 - **Chalk Talk**: Easy to understand explanations in a visual format
 	- Beginner - [Post-quantum cryptography](https://www.youtube.com/watch?v=_C5dkUiiQnw) 
