@@ -1,5 +1,5 @@
 # Quantum-Resources
-A collection of some useful Quantum Computing, Cryptography and Post-Quantum-Cryptography related resources.
+A collection of useful Quantum Computing, Cryptography and Post-Quantum-Cryptography related resources.
 
 #### Learning platforms and courses
 - [Educational Resources  |  Google Quantum AI](https://quantumai.google/resources)
@@ -11,7 +11,9 @@ A collection of some useful Quantum Computing, Cryptography and Post-Quantum-Cry
 ## Quantum Computing
 #### Books
 - [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/) by Thomas Wong
-	- A book containing all the theoretical and mathematical introductions required, including complexity theory. ALso available as Free PDF: [introduction-to-classical-and-quantum-computing-1e4p.pdf](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf)
+	- A book containing all the theoretical and mathematical introductions required, including complexity theory. Also available as Free PDF: [introduction-to-classical-and-quantum-computing-1e4p.pdf](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf)
+ - [Quantum Computing for Everyone](https://www.chrisbernhardt.info/) by Chris Bernhardt
+ 	- An introductory book to the topic of Quantum Computing and the Quantum-mechanical attributes 
 #### Youtube
 - IBM Quantum Channel [Qiskit](https://www.youtube.com/@qiskit): One of the best resources to get started and improve your Quantum Computing knowledge (my opinion) - Introductions to a wide range of theoretical and practical topics related to Quantum Computing, e.g. 
     - Beginner - [Tour of a IBM Quantum Lab](https://www.youtube.com/watch?v=4gpPHWCoWPs)
